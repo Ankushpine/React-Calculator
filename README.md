@@ -5,9 +5,7 @@ A basic React calculator built using the React JavaScript library. It allows use
 ## Hosted link: https://pine-react-calculator.onrender.com
 
 ## How to setup the project on local system
-- Clone this project from 
-- Start by installing npm if you don't have it already.
-- Navigate to Project Directory and run the following the command.
+- Clone this project to your local system.
 - Run `npm install` to install required dependencies.
 - Run `npm start` to start the app.
 - The app will be live on [http://localhost:8000](http://localhost:8000)
