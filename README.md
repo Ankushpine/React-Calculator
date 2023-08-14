@@ -8,4 +8,4 @@ A basic React calculator built using the React JavaScript library. It allows use
 - Clone this project to your local system.
 - Run `npm install` to install required dependencies.
 - Run `npm start` to start the app.
-- The app will be live on [http://localhost:8000](http://localhost:8000)
+- The app will be live on [http://localhost:8000](http://localhost:8000).
