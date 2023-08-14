@@ -13,7 +13,7 @@ The app will be live on [http://localhost:8000](http://localhost:8000)
 
 
 ## How to setup the project on local system
-- Clone this project from https://github.com/kunaldeep799/Employee-Review-System.git
+- Clone this project from 
 - Start by installing npm if you don't have it already.
 - Navigate to Project Directory and run the following the command.
 ```bash
